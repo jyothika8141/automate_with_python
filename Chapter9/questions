@@ -1,0 +1,11 @@
+1. present working directory
+2. home(in linux)
+3. WindowsPath('C:/Users/Al')
+4. TypeError: unsupported operand type(s) for /: 'str' and 'str'
+5. os.getcwd() returns present working working directory; os.chdir() is used to change the directory
+6. '.' means 'this directory.' and '..' means 'the parent folder.'
+7. 'C:\bacon\eggs' is the dir name and 'spam' is the base name
+8. filename, mode to open(r,w,a), newline
+9. the file will be truncated
+10. read() returns the number of characters entered and readlines() will return number of lines 
+11. dictionary
