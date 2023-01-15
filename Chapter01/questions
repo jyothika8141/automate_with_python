@@ -1,0 +1,15 @@
+1. operator : *, -, /, +
+   value : 'hello', -88.8, 5
+2. spam-variable
+   'spam'-string
+3.  string, integer, float
+4.  Expressions consist of values and operators, and they can always evaluate down to a single value
+5.  expression : print("Hello World")
+    statement : "Hello World"
+6.  20
+7.  Same output : 'spamspamspam'
+8.  because number cannot be a variable
+9.  int(), float(), str()
+10. 99 is an integer. Cannot concatenate int and string
+    Correction: 'I have eaten ' + '99' + ' burritos.'
+

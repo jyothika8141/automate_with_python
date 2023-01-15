@@ -1,0 +1,14 @@
+1. reduce duplication
+2. called
+3. def
+4. fuction is a block of code that does a particular operation and function call passes control to a function
+5. 1 global scope, many local scopes
+6. nothing
+7. returns a value and goes back to the global scope
+8. None
+9. add global keyword
+10. NoneType
+11. loads all the functions in areallyourpetsnamederic module
+12. spam.bacon()
+13. use try and except
+14. the code to check goes in try clause and the code to handle exception goes into except clause

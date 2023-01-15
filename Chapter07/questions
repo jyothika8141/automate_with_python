@@ -1,0 +1,14 @@
+1. re.compile()
+2. to avoid escape character
+3. Match object
+4. 
+5. group 0: (\d\d\d)-(\d\d\d-\d\d\d\d)
+   group 1: (\d\d\d)
+   group 2: (\d\d\d-\d\d\d\d)
+6. \. and  \(  \)
+7. if there are no groups, findall() returns a list and will return a list of tuples if there are groups
+8. or
+9. the group that precedes is is an optional part of pattern
+10. The * means “match zero or more”—the group that precedes the star can occur any number of times in the text
+    The + means “match one or more”- the group preceding a plus must appear at least once.
+11.  

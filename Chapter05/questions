@@ -1,0 +1,9 @@
+1. dct = {}
+2. {'foo': 42}
+3. dictionaries can only be accessed using keys while lists using index positions
+4. KeyError: 'foo'
+5. Nothing
+6. "'cat' in spam" checks if there is dictionary key as cat while "'cat' in spam.keys() checks if ther is a dictionary value as cat.
+7. spam.setdefault('color', 'black')
+8. module: pprint
+   function: pprint.pprint()

@@ -1,0 +1,11 @@
+1. An escape character lets you use characters that otherwise cannot be put into a string
+2. \n : newline; \t : tabspace
+3. \\
+4. cause double quotes was used outside
+5. use multiple print statements
+6. e; Hello; Hello; lo world!;
+7. HELLO; True; hello
+8. ['Remember,', 'remember,', 'the', 'fifth', 'of', 'November.']
+   '-'.join('There can be only one.'.split())
+9. rjust(), ljust(), center()
+10. lstrip(), rstrip

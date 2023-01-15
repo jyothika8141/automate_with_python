@@ -1,0 +1,19 @@
+1. empty list
+2. spam.insert(2, 'hello')
+3. 'd'
+4. 'd'
+5.  ['a', 'b']
+6. 1
+7. [3.14, 'cat', 11, 'cat', True, 99]
+8. [3.14, 11, 'cat', True, 99]
+9. concate: +
+   replicate: *
+10. append adds elements to the end of the list and insert adds the elements to the given index position
+11. del and .remove()
+12. iterable
+13. lists are mutable while tuples are immutable
+14. tup = 42,
+15. tup = tuple(listname)
+    lst = list(tupname)
+16. memory address
+17. copy() is used to create a copy of a list and deepcopy() is used to create a copy of nested list
